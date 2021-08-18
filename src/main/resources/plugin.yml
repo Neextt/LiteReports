@@ -1,0 +1,10 @@
+name: LReports
+version: 1.0
+main: net.lxsthw.redelite.reports.Main
+author: lxsthw
+
+commands:
+  reports:
+    aliases: [ reportes ]
+  report:
+    aliases: [ reportar ]
